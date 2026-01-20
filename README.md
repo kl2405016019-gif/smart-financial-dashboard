@@ -1,4 +1,4 @@
-# Smart Financial Dashboard (AC4313)
+# Smart Financial Dashboard
 
 A lightweight Streamlit web app that turns the AC4313 Excel template into an interactive dashboard suitable for undergraduate learning or SME self-checks.
 
