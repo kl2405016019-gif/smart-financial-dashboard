@@ -1,6 +1,6 @@
 # Smart Financial Dashboard
 
-A lightweight Streamlit web app that turns the AC4313 Excel template into an interactive dashboard suitable for undergraduate learning or SME self-checks.
+A lightweight Streamlit web app that transforms structured financial statement data into an interactive dashboard for financial analysis, designed for undergraduates and SMEs.
 
 ## Features
 - Upload the provided Excel template (or start from blank).
